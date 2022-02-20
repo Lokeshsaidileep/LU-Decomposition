@@ -32,7 +32,7 @@ print(U)
 ```
 
 ## Output:
-![output](.//LU1.PNG)
+![output](.img121.PNG)
 
 
  ## program:
@@ -55,7 +55,7 @@ print (x)
 ~~~
 
 ## output:
-![ouput](.//LU2.PNG)
+![ouput](/img111.PNG)
 ## Result:
 Thus the program to find the LU Decomposition of a matrix is written and verified using python programming.
 
